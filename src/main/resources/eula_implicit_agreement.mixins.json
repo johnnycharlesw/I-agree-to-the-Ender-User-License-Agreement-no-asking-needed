@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "io.github.johnnycharlesw.implicit_eula_agreement.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [],
+	"client": [
+		"ImplicitEulaAgreementMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
